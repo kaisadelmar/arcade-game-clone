@@ -2,6 +2,8 @@
 **Classic Arcade Game - Frogger**
 
 **Udacity P3**
+
+An HTML5 Canvas powered video game, developed using the best practices in Object Oriented JavaScript. Technologies/tools used: HTML5 Canvas, Javascript, OOP.
 ______________________________________
 
 ##How to run the game##
